@@ -6,6 +6,7 @@ angular.module('myApp', [
     'firebase',
     'myApp.contacts'
 ])
+    //firebase config
     .config(function () {
         var config = {
             apiKey: "AIzaSyBZfXCedL9eZhLK3DqebdCHLTItxViDB7Q",
